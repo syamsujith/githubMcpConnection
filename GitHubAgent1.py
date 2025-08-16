@@ -1,1 +1,1 @@
-' + content + '
+import os
